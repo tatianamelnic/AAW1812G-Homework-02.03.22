@@ -33,6 +33,9 @@ Ciaicovschii Vladislava
 Cravcenco Cornelii
 <img src="https://scontent.fkiv1-1.fna.fbcdn.net/v/t1.6435-9/70315521_425799631385790_6208242507583586304_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=NMCgp2g4Q_sAX8CezKY&_nc_ht=scontent.fkiv1-1.fna&oh=00_AT_eZkwjffJGwNioQVKkSpas_ZcgLu9mayX-cGMsFqs8Ag&oe=6242B465" alt="photo" width="250" height="300">
 </li>
+Dandis Gheorghe
+<img src="https://media.vanityfair.com/photos/5e500c6c9f4dd300088c1557/1:1/w_1211,h_1212,c_limit/leonardo-dicaprio-jan-1998-annie-leibovitz.jpg" alt="3D19" width="250" height="300">
+</li>
 </ol>
 
    
