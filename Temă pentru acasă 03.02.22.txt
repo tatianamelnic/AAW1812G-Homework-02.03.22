@@ -29,6 +29,10 @@ Chistruga Eugen
 Ciaicovschii Vladislava
 <img src="https://scontent.fkiv5-1.fna.fbcdn.net/v/t1.6435-9/81706384_708886936305678_4409613386313105408_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=9t1qBUPZkkwAX8PFeEd&tn=BKX7ctc4ET2Hcoea&_nc_ht=scontent.fkiv5-1.fna&oh=00_AT_dkGiDLCfSAEvb11A5atOdKYVtgTBSeoocaB56-HFGyQ&oe=6244FE48" alt="lost" width="400" height="370">
 </li>
+<li>
+Cravcenco Cornelii
+<img src="https://scontent.fkiv1-1.fna.fbcdn.net/v/t1.6435-9/70315521_425799631385790_6208242507583586304_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=NMCgp2g4Q_sAX8CezKY&_nc_ht=scontent.fkiv1-1.fna&oh=00_AT_eZkwjffJGwNioQVKkSpas_ZcgLu9mayX-cGMsFqs8Ag&oe=6242B465" alt="photo" width="250" height="300">
+</li>
 </ol>
 
    
