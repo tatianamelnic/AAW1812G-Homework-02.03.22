@@ -16,7 +16,7 @@
 <ol>
 <li>
 Ilies Vlad
-<img src="https://scontent.fkiv1-1.fna.fbcdn.net/v/t39.30808-6/241680706_1974959989335982_6798547977046284706_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=BZoPd14m0wgAX9qcAWB&_nc_ht=scontent.fkiv1-1.fna&oh=00_AT-I4ylWKQcFgzi8TDy4biie0__FMPw5Jlefr6ugcG2QrQ&oe=622328E9" alt="xaxaxa" width="500" height="600">
+<img src="https://scontent.fkiv1-1.fna.fbcdn.net/v/t39.30808-6/241680706_1974959989335982_6798547977046284706_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=BZoPd14m0wgAX9qcAWB&_nc_ht=scontent.fkiv1-1.fna&oh=00_AT-I4ylWKQcFgzi8TDy4biie0__FMPw5Jlefr6ugcG2QrQ&oe=622328E9" alt="xaxaxa" width="200" height="200">
 <li>
 </ol>
 
