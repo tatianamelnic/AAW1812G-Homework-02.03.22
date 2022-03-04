@@ -36,6 +36,10 @@ Cravcenco Cornelii
 Dandis Gheorghe
 <img src="https://media.vanityfair.com/photos/5e500c6c9f4dd300088c1557/1:1/w_1211,h_1212,c_limit/leonardo-dicaprio-jan-1998-annie-leibovitz.jpg" alt="3D19" width="250" height="300">
 </li>
+<li>
+Bortă Cristina
+<img src="https://scontent.fkiv1-1.fna.fbcdn.net/v/t31.18172-8/13920083_233573273704741_37985054418688518_o.jpg?_nc_cat=101&ccb=1-5&_nc_sid=174925&_nc_ohc=NzXrMkWv3tAAX96jtAb&_nc_ht=scontent.fkiv1-1.fna&oh=00_AT_EasasObHZE4dzZ1jBjK6YlNGhpNXmJEYQaWCfO_vfZQ&oe=624641B5"  width="100" height="100">
+</li>
 </ol>
 
    
