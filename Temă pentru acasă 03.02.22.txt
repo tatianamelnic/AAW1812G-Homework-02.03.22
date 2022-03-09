@@ -43,6 +43,10 @@ Bortă Cristina
 Buzu Andreea
 <img src="https://scontent.fbzy1-1.fna.fbcdn.net/v/t39.30808-6/258481792_2718744315096017_2678589741303671525_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=n4EUFsN9QJgAX8ljQTb&tn=Qj9rZopD7KM0o16A&_nc_ht=scontent.fbzy1-1.fna&oh=00_AT8dFJ1kNJLQiK_rJfdUmEncws7nJ-1JL3TKUlPwpH3rZA&oe=6226BE49"  width="100" height="150">
 </li>
+<li>
+Cîșlean Alina
+<img scr="https://scontent.fkiv1-1.fna.fbcdn.net/v/t1.6435-9/94878010_2571940856364079_2803362653458661376_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=EjLEYXE5a2kAX9EI6YN&_nc_ht=scontent.fkiv1-1.fna&oh=00_AT9LVlmjkvYuCK8iUtgltX2GZXKINoic7s4yxEmEfmn2gA&oe=624F0B01" width="100" height="150">
+</li>
 </ol>
 
    
